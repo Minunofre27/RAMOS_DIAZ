@@ -1,2 +1,2 @@
-# RAMOS_DIAZ
-Carlos Ramos Diaz - crdiaz.dgprogramas@gmail.com
+Entrega 2 RAMOS_DIAZ
+Script explicado paso por paso en "Script-2.sql" creado en DBEAVER
